@@ -1,18 +1,15 @@
 # Project-Material
 19 Fall ISTM 622 Section 606: Advanced Data Management
+
 Flight Guru
+
 The project aims at creating a system that would help the customer with their travel
 plans. As we know, flight delays can result in disruption of someone’s travel plan. The
 system that we plan on designing and implementing will aid the customer by
 suggesting the flights with minimum chances of delay based on the past data. Also, it
 will suggest the best destination to visit during a particular time of the year and the
 best flights to take for it.
-Team Members
-Aakash Parekh
-Karan Gupta
-Namrta Singh
-Paramdeep Singh
-Sneha Naik
+
 Algorithm
 ● First, we perform etl on the datasets to remove unwanted values and attributes,
 and load the data in appropriately in the tables.
@@ -24,7 +21,7 @@ webpage, to display the charts - Best Flights, and Best Destinations.
 Prerequisites
 An account on AWS to setup MariaDB Galera cluster of three nodes on EC2 platform
 that will store the database.
-19 Fall ISTM 622 Section 606: Advanced Data Management
+
 Installing
 ● Python 3.6.
 ● Required Packages to be installed: numpy, pandas, scipy, Flask.
