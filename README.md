@@ -1,5 +1,5 @@
 # Project-Material
-19 Fall ISTM 622 Section 606: Advanced Data Management
+
 
 Flight Guru
 
